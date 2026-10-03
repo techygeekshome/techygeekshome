@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="techygeekshome_ : Windows, explained properly." width="100%">
+<img src="banner.png" alt="techygeekshome_ : Windows fixes from an IT pro." width="100%">
 
-**Windows, explained properly.** Free Windows tools that each do one job well, plus 750+ guides at [techygeekshome.info](https://techygeekshome.info).
+**Windows fixes from an IT pro.** Free Windows tools that each do one job well, plus 750+ guides at [techygeekshome.info](https://techygeekshome.info).
 
 No ads, nothing bundled, no sign-up.
 
