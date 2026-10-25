@@ -66,6 +66,7 @@ Free extensions for Chrome, Edge and other Chromium browsers. Everything runs on
 | [FocusGeek](https://github.com/techygeekshome/FocusGeek) | Blocks distracting websites all the time, on a schedule or during a focus timer. |
 | [RefreshGeek](https://github.com/techygeekshome/RefreshGeek) | Auto refresh any tab on a timer, or watch part of a page and get an alert when it changes. |
 | [ColorGeek](https://github.com/techygeekshome/ColorGeek) | Pick any colour on screen and copy it as HEX, RGB or HSL. Checks contrast too. |
+| [Country Filter for X](https://github.com/techygeekshome/CountryFilterForX) | Hide or blur X posts and replies from the countries and regions you choose. |
 
 Guides, screenshots and downloads for every extension at [techygeekshome.info/browser-extensions](https://techygeekshome.info/browser-extensions/).
 
