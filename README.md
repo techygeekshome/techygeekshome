@@ -6,6 +6,9 @@
 
 No ads, nothing bundled, no sign-up, no tracking.
 
+[![Total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftechygeekshome%2Fdownload-stats%2Fmain%2Fdata%2Fdownloads.json&query=%24.total&label=total%20downloads&color=3BF08A&labelColor=10141B&style=for-the-badge)](https://techygeekshome.github.io/download-stats/)
+
+
 </div>
 
 ## Free Windows tools
@@ -81,4 +84,4 @@ Guides, screenshots and downloads for every extension at [techygeekshome.info/br
 
 ## Elsewhere
 
-[Website](https://techygeekshome.info) · [YouTube](https://www.youtube.com/@techygeekshome) · [TikTok](https://www.tiktok.com/@techygeekshome) · [Instagram](https://www.instagram.com/techygeekshome.info) · [Facebook](https://www.facebook.com/techygeekshome.info) · [X](https://x.com/TechyGeeks1) · [All links](https://techygeekshome.github.io/) · [Support on Ko-fi](https://ko-fi.com/techygeekshome)
+[Website](https://techygeekshome.info) · [YouTube](https://www.youtube.com/@techygeekshome) · [TikTok](https://www.tiktok.com/@techygeekshome) · [Instagram](https://www.instagram.com/techygeekshome.info) · [Facebook](https://www.facebook.com/techygeekshome.info) · [X](https://x.com/TechyGeeks1) · [All links](https://techygeekshome.github.io/) · [Download stats](https://techygeekshome.github.io/download-stats/) · [Support on Ko-fi](https://ko-fi.com/techygeekshome)
